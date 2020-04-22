@@ -1,8 +1,3 @@
-//Devloper : XploitWizer
-//Website : https://xploitwizer.me
-//GitHub : https://github.com/XploitWizer
-
-
 <?php
 
 			session_start();
