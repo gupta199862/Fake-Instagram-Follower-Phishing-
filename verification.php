@@ -1,8 +1,3 @@
-//Devloper : XploitWizer
-//Website : https://xploitwizer.me
-//GitHub : https://github.com/XploitWizer
-
-
 <!DOCTYPE html>
 <html>
 <head>
